@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@octokit/core": "^3.2.1",
+    "@octokit/rest": "^18.0.9",
     "octokit-plugin-hello-world": "^2.0.0"
   }
 }
