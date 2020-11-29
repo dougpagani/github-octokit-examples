@@ -1,1 +1,2 @@
 package-lock.json -diff
+.env filter=git-crypt diff=git-crypt
